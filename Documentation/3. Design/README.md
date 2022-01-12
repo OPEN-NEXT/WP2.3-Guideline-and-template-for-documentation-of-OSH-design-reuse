@@ -6,7 +6,7 @@
 - **Behaviour (B)** stands for **“what the object does”.**
 - **Structure (S)** stands for **“what the object consists of”.**
 
-![Image of FBS of design ](https://github.com/OPEN-NEXT/WP2.3.-Workspace-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/FBS.jpg)
+![Image of FBS of design ](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/FBS.jpg)
 
 > *Figure 1. Same function, different behaviour, different structure (Rosenman & Gero, 1998)* 
 
