@@ -66,7 +66,7 @@ How to visualize the process of disposal?
 
  *You can use this template on the App diagram to distinguish the disposable and non-disposable components or products their type of materials.*
  
- ![image Distinguishing the disposable and non-disposable components or products](https://github.com/OPEN-NEXT/WP2.3.-Workspace-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Disposal.jpg)
+ ![image Distinguishing the disposable and non-disposable components or products](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Disposal.jpg)
 
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FDisposal.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FDisposal.png">Edit in diagrams.net</a>
  
@@ -74,7 +74,7 @@ How to visualize the process of disposal?
  
   *You can use this template on the App diagram to describe the end of life.*
  
- ![image of end of life of components and products](https://github.com/OPEN-NEXT/WP2.3.-Workspace-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/End%20of%20life%20of%20product%20and%20components%20.jpg)
+ ![image of end of life of components and products](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/End%20of%20life%20of%20product%20and%20components%20.jpg)
 
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FEnd%20of%20life%20of%20product%20and%20components%20.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2F%20End%20of%20life%20of%20product%20and%20components%20.png">Edit in diagrams.net</a>
 
@@ -82,7 +82,7 @@ How to visualize the process of disposal?
  
    *You can use this template on the App diagram to describe the spets for disassembling to recycle/ dispose the components of a product after their end of life.*
  
- ![image of disassemble the components of a product for recycling/ disposing](https://github.com/OPEN-NEXT/WP2.3.-Workspace-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Disassembly%20for%20recycling%20or%20disposing%20.jpg)
+ ![image of disassemble the components of a product for recycling/ disposing](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Disassembly%20for%20recycling%20or%20disposing%20.jpg)
 
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FDisassemble%20for%20recycling%20or%20disposing.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FDisassembly%20for%20recycling%20or%20disposing%20.drawio.png">Edit in diagrams.net</a>
  ...
@@ -91,8 +91,8 @@ How to visualize the process of disposal?
   
    *You can use this template on the App diagram to describe the environmental impacts.*
  
- ![image of environmental assessment ](https://github.com/OPEN-NEXT/WP2.3.-Workspace-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Environmental%20impact.jpg)
+ ![image of environmental assessment ](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Environmental%20impact.jpg)
 
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FEnvironmental%20impact.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FEnvironmental%20impact.drawio.png">Edit in diagrams.net</a>
 
-### [Metadata](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/tree/main/Metadata/8.%20Disposal)
+
