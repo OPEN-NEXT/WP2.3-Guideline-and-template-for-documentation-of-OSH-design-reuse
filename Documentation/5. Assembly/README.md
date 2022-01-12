@@ -82,7 +82,7 @@ How to visualize the assembly or disassembly process?
  
  *You can use this template on the App diagram to define the required skills for assembly.*
  
-![image of required skills](https://github.com/OPEN-NEXT/WP2.3.-Workspace-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Required%20skills.jpg)
+![image of required skills](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Required%20skills.jpg)
 
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FRequired%20skills.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FRequired%20skills.png">Edit in diagrams.net</a>
 
@@ -92,18 +92,18 @@ How to visualize the assembly or disassembly process?
    * Optional
      * ... 
  #### 3. Assembly sequences 
-   * Part list (refer to [Bill of Material (BOM)](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/tree/main/Documentation/4.%20Manufacturing#1-bill-of-material-bom))
+   * Part list (refer to [Bill of Material (BOM)](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/tree/main/Documentation/4.%20Manufacturing#1-bill-of-material-bom))
    * Datasheet
   
    *You can use this template on the App diagram to define the part list.*
  
-![image of partlist](https://github.com/OPEN-NEXT/WP2.3.-Workspace-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Part%20list.jpg)
+![image of partlist](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Part%20list.jpg)
 
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FPart%20list%20or%20data%20sheet.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FPart%20list%20or%20data%20sheet.png">Edit in diagrams.net</a>
  
    *You can use this template on the App diagram to define the datasheet.*
  
-![image of datasheet](https://github.com/OPEN-NEXT/WP2.3.-Workspace-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Data%20sheet.jpg)
+![image of datasheet](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Data%20sheet.jpg)
 
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FData%20sheet.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FData%20sheet.png">Edit in diagrams.net</a>
  
@@ -111,7 +111,7 @@ How to visualize the assembly or disassembly process?
   
  *You can use this template  on the App diagram to demonstrate the components and the process of machining/ fabrication.*
  
-![image of machining/fabrication](https://github.com/OPEN-NEXT/WP2.3.-Workspace-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Describing%20the%20machining_%20fabrication%201.jpg)
+![image of machining/fabrication](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Describing%20the%20machining_%20fabrication%201.jpg)
 
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FDescribing%20the%20machining%2F%20fabrication.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FDescribing%20the%20machining%2Ffabrication.png">Edit in diagrams.net</a>
    
@@ -121,9 +121,9 @@ How to visualize the assembly or disassembly process?
      
    *You can use this template on the App diagram to explain the set of stages for the assembly of the parts.*
  
-![image of steps to assemble](https://github.com/OPEN-NEXT/WP2.3.-Workspace-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Steps%20to%20assemble%20the%20parts%201.jpg)
+![image of steps to assemble](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Steps%20to%20assemble%20the%20parts%201.jpg)
 
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FSteps%20to%20assemble%20the%20parts.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FSteps%20to%20assemble%20the%20parts.png">Edit in diagrams.net</a>
 
-### [Metadata](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/tree/main/Metadata/5.%20Assembly) 
+
  
