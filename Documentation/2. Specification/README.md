@@ -87,7 +87,7 @@ Example XYZ Cargo ADD-ONS
 
 *The image below shows the external interfaces of  ADD-ONS of XYZ cargo as a graph*
 
-![Image of External interfaces of XYZ cargo-ADD ONS](https://github.com/OPEN-NEXT/WP2.3.-Workspace-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/External%20interfaces%20of%20XYZ%20Cargo%20ADD-ONS.jpg)
+![Image of External interfaces of XYZ cargo-ADD ONS](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/External%20interfaces%20of%20XYZ%20Cargo%20ADD-ONS.jpg)
 
 <a href="https://app.diagrams.net/?libs=general#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FExternal%20interfaces.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FExternal%20interfaces.png">Edit in diagrams.net</a>
 </details>
@@ -98,7 +98,7 @@ Example XYZ Cargo ADD-ONS
        * Flow 1
        * ...
  
- ![Image of stakeholder diagram for template](https://github.com/OPEN-NEXT/WP2.3.-Workspace-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/External%20interfaces%20for%20template.jpg)
+ ![Image of stakeholder diagram for template](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/External%20interfaces%20for%20template.jpg)
   
    *The link below can be used to define the external interfaces of your project/product.*
   
@@ -221,6 +221,6 @@ Example XYZ Cargo ADD-ONS
    * Requirement 1
    * ...
  
-### [Metadata](https://github.com/OPEN-NEXT/WP2.3.-Workspace-for-documentation-of-OSH-design-reuse/tree/main/Metadata/2.%20Specification)
+
 
 
