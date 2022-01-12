@@ -39,18 +39,6 @@ To use the link of the App diagram in the template, you can follow these steps t
 
 ![image](https://user-images.githubusercontent.com/59058909/132664321-95a2b5d0-ae50-44d7-9133-b4c92d3a30cc.png)
 
-To follow these steps, you can create your documentation of the project. 
-
-## Video of guidelines and templates enabling reuse of open-source hardware design
-
-To better understand guidelines development for documentation of OSH design reuse, this [video](https://www.youtube.com/watch?v=87U5FCMh2DU) presents all of the structure of guidelines documentation.
-
-## How to contribute to this documentation project
-
-*Want to contribute, improve, modify the guidelines and templates?*
-Any comments, request are welcome...
-Open a new issue here on [GitHub](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/issues)
-
 ## Project team
 
 - Jean-François BOUJUT {Jean-francois.boujut@grenoble-inp.fr}
