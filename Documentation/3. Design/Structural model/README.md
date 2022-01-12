@@ -26,10 +26,9 @@
 
 *Documentation of the structural model can be done in different sections for each project including*
 
-* [Mechanics](https://github.com/OPEN-NEXT/WP2.3.-Workspace-for-documentation-of-OSH-design-reuse/tree/main/Documentation/3.%20Design/Structural%20model/Mechanics)
+* [Mechanics](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/tree/main/Documentation/3.%20Design/Structural%20model/Mechanics)
 
-* [Electronics](https://github.com/OPEN-NEXT/WP2.3.-Workspace-for-documentation-of-OSH-design-reuse/tree/main/Documentation/3.%20Design/Structural%20model/Electronics)
+* [Electronics](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/tree/main/Documentation/3.%20Design/Structural%20model/Electronics)
 
-* [Software](https://github.com/OPEN-NEXT/WP2.3.-Workspace-for-documentation-of-OSH-design-reuse/tree/main/Documentation/3.%20Design/Structural%20model/Software)
+* [Software](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/tree/main/Documentation/3.%20Design/Structural%20model/Software)
 
-### [Metadata](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/tree/main/Metadata/3.%20Design/Structural%20model)
