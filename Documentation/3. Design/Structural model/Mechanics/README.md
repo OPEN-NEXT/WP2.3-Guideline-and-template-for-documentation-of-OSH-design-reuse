@@ -30,14 +30,14 @@
 
 #### *Example 1: architectural structure of* [MPS ventilator](https://www.monolithicpower.com/en/mps-open-source-ventilator)
 
- ![Image of architecture of MPS ventilator](https://github.com/OPEN-NEXT/WP2.3.-Workspace-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Architecture%20of%20mechanical%20structural%20model.jpg)
+ ![Image of architecture of MPS ventilator](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Architecture%20of%20mechanical%20structural%20model.jpg)
 
 <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FArchitecture%20of%20mechanical%20structural%20model.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FArchitecture%20of%20mechanical%20structural%20model.png" target="_blank">Edit in diagrams.net</a>
 
 
 #### *Example 2: Architectural structure of* [Makair ventilator](https://github.com/makers-for-life/makair) 
 
- ![Image of Architectural structure of Makair ventilator](https://github.com/OPEN-NEXT/WP2.3.-Workspace-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Architectural%20structure%20of%20makair%20ventilator.jpg)
+ ![Image of Architectural structure of Makair ventilator](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Architectural%20structure%20of%20makair%20ventilator.jpg)
 
 <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FArchitectural%20structure%20of%20makair%20ventilator.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FArchitectural%20structure%20of%20makair%20ventilator.png">Edit in diagrams.net</a>
 
@@ -49,7 +49,7 @@
   #### Architectural structure documentation
   1. A model specifying components
  
- ![Image of template for architectural structure](https://github.com/OPEN-NEXT/WP2.3.-Workspace-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Architectural%20structure%20for%20template.jpg)
+ ![Image of template for architectural structure](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Architectural%20structure%20for%20template.jpg)
  
   *You can use the link below as a template to define the architectural structure of your project/product.*
  
@@ -135,7 +135,7 @@ To reuse a design model, it should provide information consist of:
   
 *Figure below shows some physical properties of superalloy base elements.*
 
-![Image of material characteristics](https://github.com/OPEN-NEXT/wp2.3_template/blob/main/Sources/Images/material%20characteristics%20example.jpg)
+![Image of material characteristics](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/material%20characteristics%20example.jpg)
 
 > Source: Kutz, M. ed., 2002. Handbook of materials selection. John Wiley & Sons.
   </details>
