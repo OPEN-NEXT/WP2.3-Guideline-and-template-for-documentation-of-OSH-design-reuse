@@ -1,56 +1,18 @@
-# Introduction
-
-## Motivations
-
-*Why did we start this documentation for the design reuse project?*
-
-
-Open source promotes the openness and accessibility of all useful information for studying, modifying, or replicating a piece of software or hardware. As for [industry](https://www.researchgate.net/publication/306022370_Achieving_Benefits_with_Design_Reuse_in_Manufacturing_Industry), the **reuse** of existing designs is, therefore, a fundamental requirement for open source. This project is motivated by the very diverse and contrasted documentation practices observed in web-based [open-source hardware](https://en.wikipedia.org/wiki/Open-source_hardware) projects. Indeed, the lack of standardized open-source hardware documentation guidelines makes the reuse of the solutions very problematic. We are closely working with the promoters of the [DIN SPEC 3105 standard](https://wiki.opensourceecology.org/wiki/DIN_SPEC_3105) to develop useful documentation guidelines and templates.
-
-## Goals
-
-*What does this project provide?*
-
-
-This project delivers a template standing as minimum viable documentation for open source hardware. By cloning this repository, any maker will be able to fill in the template provided in the folder entitled "Documentation".
-
-## Sources of inspiration
-
-*What are the existing sources that have inspired this project?*
-
-
-
-The documentation template reuses exemplary documentation practices borrowed from:
-
-- [BCN3D Moveo Project](https://github.com/BCN3D/BCN3D-Moveo) - section "Motivation and goal in the introduction"
-- [NASA JPL Open Source Rover Project](https://github.com/nasa-jpl/open-source-rover) - section "Skills Necessary, Software description, Manufacturing, Assembly"
-- [Open-Source Ventilator Project](https://github.com/ermtl/Open-Source-Ventilator/blob/master/hardware/datasheets/A4988.pdf) - section "Functional Block Diagram"
-- [Renesas Electronics Ventilator Project](https://www.rs-online.com/designspark/ventilator-design-solution-from-renesas-electronics) - section "Functional Block Diagram"
-- [GlasVent Project](https://onlinelibrary.wiley.com/doi/10.1002/gch2.202000046) - section "Block Diagram of Architectural Structure"
-- [GMPS Open-Source Ventilator Project](https://www.monolithicpower.com/en/mps-open-source-ventilator) - section "Hardware overview"
-- [MakAir Covid-19 Ventilator Project](https://github.com/makers-for-life/makair) - section "Architecture"
-- [Echopen](https://github.com/echopen/) - project start kit or prototyping
-- ...
-
-## Getting started with your documentation
+## Introduction
 
 This guideline and its template are available for you and your team to follow as a reference in the process of developing your project.
 
-<meta You can even download this template and upload it on the platform of your choice. This can be used as a base for your documentation.>
+To better understand guidelines development for documentation of OSH design reuse, this [video](https://www.youtube.com/watch?v=87U5FCMh2DU) presents all of the structure of guidelines documentation.
 
-A maker should have the specific knowledge to create his documentation based on this project.
+## Getting started with your documentation
 
-<meta name="description" content="Pull requests let you tell others about changes you've pushed to a branch in a repository on GitHub. Once a pull request is opened, you can discuss and review the potential changes with collaborators and add follow-up commits before your changes are merged into the base branch.">
-  
-To get started with your documentation choose one of the three options:
-
-- [Clone a GIT repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
-- [Edit a Markdown file](https://guides.github.com/features/mastering-markdown/)
-- Fork the repository
+To get started with your documentation, you can [use this template](https://github.com/OPEN-NEXT/WP2.3-Guidelines-and-templates-for-documentation-of-OSH-design-reuse/tree/main/Documentation%20of%20OSH%20design%20according%20to%20development%20activities)
 
 Then, to reference this guideline, you can follow the guideline and then fill the template in each section in your own Project's readme.
 
-It is possible to use the link of the App diagram in the template and fill the information of your product in the tables or create your representations as a graph or tree.
+At first, you should identify your needs for documentation. These needs are represented as development activities in the guideline for creating the documentation. Then, according to your required development activities, you can fill the corresponded templates of documentation blocks
+
+Moreover, you can utilize the link of the App diagram in the template and fill the information of your product in the tables or create your representations as a graph or tree.
 
 To use the link of the App diagram in the template, you can follow these steps to create your own project's table, graph or, tree.
 
