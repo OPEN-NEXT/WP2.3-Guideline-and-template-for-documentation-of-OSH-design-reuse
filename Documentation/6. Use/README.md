@@ -70,7 +70,7 @@ How to visualize the process of the user guide?
  
    *You can use this template on the App diagram to describe the device of the product.*
  
-![image of use of device](https://github.com/OPEN-NEXT/WP2.3.-Workspace-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Use%20the%20product%20and%20device.jpg)
+![image of use of device](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Use%20the%20product%20and%20device.jpg)
 
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FUse%20the%20product%20and%20device.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FUse%20the%20product%20and%20device.png">Edit in diagrams.net</a> 
      
@@ -78,7 +78,7 @@ How to visualize the process of the user guide?
  
   *You can use this template on the App diagram to explain the use of the product.*
  
-![image of use of product and its device](https://github.com/OPEN-NEXT/WP2.3.-Workspace-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Description%20of%20the%20device%20of%20the%20product.jpg)
+![image of use of product and its device](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Description%20of%20the%20device%20of%20the%20product.jpg)
 
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FDescription%20of%20the%20device%20of%20the%20product.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FDescription%20of%20the%20device%20of%20the%20product.png">Edit in diagrams.net</a> 
 
@@ -86,7 +86,7 @@ How to visualize the process of the user guide?
 
   *You can use this template on the App diagram to explain the troubleshooting.*
  
-![image of troubleshooting](https://github.com/OPEN-NEXT/WP2.3.-Workspace-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Troubleshooting.jpg)
+![image of troubleshooting](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Troubleshooting.jpg)
 
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FTroubleshooting.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2Ftroubleshooting.png">Edit in diagrams.net</a>
  
@@ -94,7 +94,7 @@ How to visualize the process of the user guide?
 
  *You can use this template on the App diagram to explain the environmental management of the product.*
  
-![image of environmental management](https://github.com/OPEN-NEXT/WP2.3.-Workspace-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Envronmental%20management.png)
+![image of environmental management](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Envronmental%20management.png)
 
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FEnvironmental%20management.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FEnvronmental%20management.png">Edit in diagrams.net</a>
  
@@ -102,4 +102,3 @@ How to visualize the process of the user guide?
  * ...
 
 
-### [Metadata](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/tree/main/Metadata/6.%20Use) 
