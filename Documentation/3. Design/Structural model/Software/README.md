@@ -36,7 +36,7 @@
  
   1. A model specifying of components 
  
- ![Image of template for architectural structure](https://github.com/OPEN-NEXT/WP2.3.-Workspace-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Template%20of%20software%20architecture.jpg)
+ ![Image of template for architectural structure](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Template%20of%20software%20architecture.jpg)
  
   *You can use the link below as a template to define the software architecture of your project/product.*
  
