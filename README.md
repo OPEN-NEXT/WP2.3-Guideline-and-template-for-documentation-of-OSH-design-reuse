@@ -6,7 +6,7 @@ To better understand guidelines development for documentation of OSH design reus
 
 ## Getting started with your documentation
 
-To get started with your documentation, you can [use this template](https://github.com/OPEN-NEXT/WP2.3-Guidelines-and-templates-for-documentation-of-OSH-design-reuse/tree/main/Documentation%20of%20OSH%20design%20according%20to%20development%20activities)
+To get started with your documentation, you can [use this template](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/tree/main/Documentation)
 
 Then, to reference this guideline, you can follow the guideline and then fill the template in each section in your own Project's readme.
 
