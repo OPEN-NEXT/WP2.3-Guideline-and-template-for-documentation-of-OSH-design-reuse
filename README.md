@@ -4,13 +4,26 @@ This guideline and its template are available for you and your team to follow as
 
 To better understand guidelines development for documentation of OSH design reuse, this [video](https://www.youtube.com/watch?v=87U5FCMh2DU) presents all of the structure of guidelines documentation.
 
+Your needs for documentation corresponde to development activities in the guideline for creating the documentation. Development activites specifies the needs of users for documentation according to the product life cycle that based on the freedoms of open-source hardware (OSH).
+
+As defined by the Open Source Hardware Association, open source hardware is hardware whose design is made available in a way assuring anyone can study, modify, distribute, make, and sell the product. One major benefit of open source is to provide designers with the ability to freely reuse solutions in open collaboration across communities.
+
+Product life cycle phases consist:
+
+* Idea generation
+* Need analysis 
+* Concept development
+* Product development and prototyping
+* Produce/replication
+* Use
+* Maintenance
+* Dismantle/recycle
+
 ## Getting started with your documentation
 
 To get started with your documentation, you can [use this template](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/tree/main/Documentation)
 
 Then, to reference this guideline, you can follow the guideline and then fill the template in each section in your own Project's readme.
-
-At first, you should identify your needs for documentation. These needs are represented as development activities in the guideline for creating the documentation. Then, according to your required development activities, you can fill the corresponded templates of documentation blocks
 
 Moreover, you can utilize the link of the App diagram in the template and fill the information of your product in the tables or create your representations as a graph or tree.
 
@@ -59,5 +72,5 @@ CC-BY-SA 4.0
 
 The European research and innovation project [OPEN!NEXT](https://opennext.eu/) is sponsorised by the [EU’s Horizon 2020 program](https://ec.europa.eu/easme/en/section/horizon-2020-energy-efficiency/h2020-programme#:~:text=Horizon%202020%20is%20the%20EU's,leadership%20and%20tackling%20societal%20challenges.) under the grant N°.869984
 
-![Image of European Commission](https://github.com/OPEN-NEXT/WP2.3.-Workspace-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/European%20commossion.png). ![Image of Open Next Project](https://github.com/OPEN-NEXT/WP2.3.-Workspace-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Open%20Next%20logo.png)
+![Image of European Commission](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/European%20commossion.png). ![Image of Open Next Project](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Open%20Next%20logo.png)
 
