@@ -48,7 +48,7 @@
    * Stakeholder name 1
    * ...
 
-  ![Image of stakeholder diagram for template](https://github.com/OPEN-NEXT/WP2.3.-Workspace-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Stakeholder%20diagram%20for%20template.jpg)
+  ![Image of template of stakeholder diagram](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Stakeholder%20diagram%20for%20template.jpg)
             
   *The link below can be used to define the stakeholders of your project/product.*
   
