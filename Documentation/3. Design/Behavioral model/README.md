@@ -69,7 +69,7 @@
  
  **Example 2:** *Image below shows the simulation of the torsion of the fixed part from below and its evaluation of the reality.*
  
-  ![Image of Finite element analysis](https://github.com/OPEN-NEXT/WP2.3.-Workspace-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Finite%20element%20analysis%20image.gif)
+  ![Image of Finite element analysis](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Finite%20element%20analysis%20image.gif)
  </details>
   
  ### Template of the simulation model
@@ -88,5 +88,4 @@
   4. Name of software
      * ...
  
-### [Metadata](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/tree/main/Metadata/3.%20Design/Behavioral%20model)
 
