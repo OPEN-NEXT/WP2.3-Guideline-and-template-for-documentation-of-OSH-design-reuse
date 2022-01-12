@@ -66,7 +66,7 @@
 
 *The decomposition of technical functions creates a functional tree and, the technical functions are defined based on the functional requirements. Functional tree of example about the refrigerator on the ADD-ONS for food producers represented in the figure below.*
 
-  ![Image of functional tree of XYZ cargo-ADD ONS](https://github.com/OPEN-NEXT/WP2.3.-Workspace-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Functional%20tree-%20XYZ%20cargo%20ADD-ONS.jpg)
+  ![Image of functional tree of XYZ cargo-ADD ONS](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Functional%20tree-%20XYZ%20cargo%20ADD-ONS.jpg)
 
 <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FFunctional%20tree.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FFunctional%20tree%20of%20XYZ%20cargo%20ADD-ONS.png">Edit in diagrams.net</a>
 </details>
@@ -75,7 +75,7 @@
  
   1. A model specifying the kinds of technical functions 
  
-  ![Image of functional tree of template](https://github.com/OPEN-NEXT/WP2.3.-Workspace-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Functional%20tree%20for%20template.jpg)
+  ![Image of functional tree of template](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Functional%20tree%20for%20template.jpg)
 
 *You can use this template on the App diagram to define the functional tree of your project/product.*
  
@@ -125,7 +125,7 @@
   
 *The image below shows the functional graph of the relationship between technical functions for maintaining food quality by ADD-ONS of XYZ cargo*
 
-  ![Image of functional graph of XYZ cargo-ADD ONS](https://github.com/OPEN-NEXT/WP2.3.-Workspace-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Functional%20graph%20of%20XYZ%20cargo-ADD%20ONS.jpg)
+  ![Image of functional graph of XYZ cargo-ADD ONS](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Functional%20graph%20of%20XYZ%20cargo-ADD%20ONS.jpg)
 
 <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FFunctional%20graph.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FFunctional%20graph%20of%20XYZ%20cargo%20ADD-ONS.png">Edit in diagrams.net</a>
 
@@ -141,7 +141,7 @@
 
   1. A model specifying the relationships between technical functions 
  
- ![Image of template of functional graph](https://github.com/OPEN-NEXT/WP2.3.-Workspace-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Functional%20graph%20for%20template.jpg)
+ ![Image of template of functional graph](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Functional%20graph%20for%20template.jpg)
  
  *You can use the link below  to define the functional graph of your project/product.*
  
@@ -154,7 +154,7 @@
      * Online app diagram
      * ...
  
-### [Metadata](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/tree/main/Metadata/3.%20Design/Functional%20model)
+
 
 
 
