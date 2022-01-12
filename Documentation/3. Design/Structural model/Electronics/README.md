@@ -42,13 +42,13 @@
 
 #### *Example 1: Architectural structure of* [PX4 Vision](https://wikifactory.com/+holybro/px4-vision) 
 
- ![Image of architectural structure of PX4 Vision](https://github.com/OPEN-NEXT/WP2.3.-Workspace-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Architecture%20of%20electrical%20structural%20model.jpg)
+ ![Image of architectural structure of PX4 Vision](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Architecture%20of%20electrical%20structural%20model.jpg)
 
 <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FArchitecture%20of%20electrical%20structural%20model.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FArchitecture%20of%20electrical%20model.png">Edit in diagrams.net</a>
 
 #### *Example 2: Architectural structure of* [Open-Source-Ventilator](https://github.com/ermtl/Open-Source-Ventilator/blob/master/hardware/datasheets/A4988.pdf)
 
- ![Image of Structural graph of Open-Source-Ventilator](https://github.com/OPEN-NEXT/WP2.3.-Workspace-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Architectural%20stracture%20of%20open%20source%20ventilator.png)
+ ![Image of Structural graph of Open-Source-Ventilator](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Architectural%20stracture%20of%20open%20source%20ventilator.png)
 
 #### *Example 3: Architectural structure of* [ GlasVent emergency ventilator](https://onlinelibrary.wiley.com/doi/10.1002/gch2.202000046) (refer to figure 6 of the link)
 </details>
@@ -58,7 +58,7 @@
   #### Architectural structure documentation
   1. A model specifying of components
  
-   ![Image of template for architectural structure](https://github.com/OPEN-NEXT/WP2.3.-Workspace-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Architectural%20structure%20for%20template.jpg)
+   ![Image of template for architectural structure](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Architectural%20structure%20for%20template.jpg)
  
 *You can use the link below to define the architectural structure of your project/product.*
  
