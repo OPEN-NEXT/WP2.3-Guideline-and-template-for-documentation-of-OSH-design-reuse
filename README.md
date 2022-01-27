@@ -36,7 +36,7 @@ To use the link of the App diagram in the template, you can follow these steps t
  
 ![image](https://user-images.githubusercontent.com/59058909/132663234-720fc3a1-381e-4a00-97ea-844a1212fa43.png)
 
-- After modifying, you can save the changes.
+- After modifying, you can save the changes. To save the changes on Appdiarams, you can follow this [userguide](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-template-for-documentation-of-OSH-design-reuse/blob/main/Sources/Userguide%20of%20modification%20of%20templates%20in%20Appdiagram%20for%20documetation%20of%20OSH%20design%20reuse.pdf)
 - Finally, it is possible to export the file in different forms ( PNG, JPEG, PDF, HTML, URL,...) and import it in the readme.
 
 ![image](https://user-images.githubusercontent.com/59058909/132664321-95a2b5d0-ae50-44d7-9133-b4c92d3a30cc.png)
