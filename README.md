@@ -54,6 +54,7 @@ To use the link of the App diagram in the template, you can follow these steps t
 
 CC-BY-SA 4.0
 
+This link show the conditions of [Creative Commons license](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ## Sponsors and Partners
 
