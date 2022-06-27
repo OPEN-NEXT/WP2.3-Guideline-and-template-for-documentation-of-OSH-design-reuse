@@ -6,7 +6,7 @@ This guideline delivers a template standing as minimum viable documentation for 
 
 To better understand guidelines development for documentation of OSH design reuse, this [video](https://www.youtube.com/watch?v=87U5FCMh2DU) presents all of the structure of guidelines documentation.
 
-Your needs for documentation corresponde to development activities in the guideline for creating the documentation. Development activites specifies the needs of users for documentation according to the product life cycle that based on the freedoms of open-source hardware (OSH).
+The documentation structure corresponds to the classical development activities any project logically fulfills. This structure aims to fulfill the requirements for openness and enables the freedom of OSH as stated by the OSHWA association.
 
 As defined by the Open Source Hardware Association, open source hardware is hardware whose design is made available in a way assuring anyone can study, modify, distribute, make, and sell the product. One major benefit of open source is to provide designers with the ability to freely reuse solutions in open collaboration across communities.
 
