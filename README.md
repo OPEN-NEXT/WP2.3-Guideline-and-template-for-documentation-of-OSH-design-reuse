@@ -2,7 +2,7 @@
 
 Open source promotes the openness and accessibility of all useful information for studying, modifying, or replicating a piece of software or hardware. As for [industry](https://www.researchgate.net/publication/306022370_Achieving_Benefits_with_Design_Reuse_in_Manufacturing_Industry), the **reuse** of existing designs is, therefore, a fundamental requirement for open source. This project is motivated by the very diverse and contrasted documentation practices observed in web-based [open-source hardware](https://en.wikipedia.org/wiki/Open-source_hardware) projects. Indeed, the lack of standardized open-source hardware documentation guidelines makes the reuse of the solutions very problematic. We are closely working with the promoters of the [DIN SPEC 3105 standard](https://wiki.opensourceecology.org/wiki/DIN_SPEC_3105) to develop useful documentation guidelines and templates.
 
-This work is the result of the [OPENNEXT project](https://opennext.eu/) funded by the European Union and you can find the la deliverable describint the documentation process. 
+This work is the result of the [OPENNEXT project](https://opennext.eu/) funded by the European Union and you can find the la deliverable describing the documentation process. 
 
 This guideline delivers a template standing as minimum viable documentation for open source hardware. By cloning this repository, you will be able to fill in the template provided in the folder entitled "Documentation". So, you can follow this guideline in the process of developing your project.
 
